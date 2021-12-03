@@ -1,4 +1,5 @@
 <?php
+//Autores
 define('_AUTOR', 'Igor Gomes ETI');
 define('_EMAIL', 'contato@igorgomes.eti.br');
 define('_COPYRINGHT', '© 2021 Igor Gomes');
@@ -6,13 +7,14 @@ define('_COPYRINGHT_FOOTER', "Copyright &copy; 2020 All rights reserved | This t
 define('_CANONICAL', '');
 define('_TITULO', 'Bruno Alves Construções');
 
+//Contato
+define('_WHATSAPP', '+55');
+define('_TELEFONE', '+55');
+define('_ENDERECO', '');
+
+//Redes Sociais
 define('_TWITTER', '');
 define('_FACEBOOK', '');
 define('_LINKEDIN', '');
 define('_INSTAGRAM', '');
 define('_GITHUB', '');
-define('_WHATSAPP', '+55');
-define('_TELEFONE', '+55');
-define('_ENDERECO', '');
-
-
